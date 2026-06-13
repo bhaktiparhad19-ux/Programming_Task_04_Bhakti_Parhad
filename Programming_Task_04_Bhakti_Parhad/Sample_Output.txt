@@ -1,0 +1,132 @@
+PROGRAMMING TASK 04 - SUMMER INTERNSHIP
+
+SAMPLE OUTPUT
+
+****************************************************************
+
+PART A - CALCULATOR FUNCTIONS
+
+===== Calculator =====
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+
+Enter Choice: 1
+
+Enter First Number: 10
+Enter Second Number: 20
+
+Result: 30
+
+****************************************************************
+
+PART B - STUDENT INFORMATION MANAGER
+
+Enter Student Name: Soham Patel
+Enter Roll Number: 101
+Enter Branch: CSE
+Enter Semester: 5
+
+===== Student Information =====
+
+Name: Soham Patel
+Roll No: 101
+Branch: CSE
+Semester: 5
+
+****************************************************************
+
+PART C - MARKS ANALYZER
+
+Enter Marks of Subject 1: 90
+Enter Marks of Subject 2: 85
+Enter Marks of Subject 3: 88
+Enter Marks of Subject 4: 92
+Enter Marks of Subject 5: 95
+
+===== Result =====
+
+Total Marks: 450
+
+Percentage: 90.0
+
+Grade: A
+
+****************************************************************
+
+PART D - FILE HANDLING
+
+Enter Name: Soham
+Enter Roll Number: 101
+Enter Branch: CSE
+Enter Marks: 85
+
+Student Record Saved Successfully
+
+Reading File...
+
+Name: Soham
+Roll No: 101
+Branch: CSE
+Marks: 85
+
+****************************************************************
+
+PART E - PASSWORD VAULT SIMULATOR
+
+Enter Website Name: Gmail
+Enter Username: user@gmail.com
+Enter Password: Test@123
+
+Record Saved Successfully
+
+Saved Records:
+
+Website: Gmail
+Username: user@gmail.com
+Password: Test@123
+
+****************************************************************
+
+BONUS CHALLENGE - LOG FILE GENERATOR
+
+Program Started
+
+Log Created Successfully
+
+Example Log Entry:
+
+2026-06-13 10:30:15.123456 - Program Started
+
+****************************************************************
+
+TASK SUMMARY
+
+Programs Created:
+
+* calculator_functions.py
+* student_manager.py
+* marks_analyzer.py
+* file_handling.py
+* password_vault.py
+
+Additional Files Created:
+
+* student_data.txt
+* vault.txt
+* activity_log.txt
+
+Topics Practiced:
+
+* Functions
+* Parameters
+* Return Statements
+* Conditional Logic
+* File Handling
+* Logging
+* Structured Programming
+
+****************************************************************

@@ -1,0 +1,240 @@
+PROGRAMMING TASK 04 - SUMMER INTERNSHIP
+
+EXPLANATION OF FUNCTIONS USED
+
+****************************************************************
+
+PART A - CALCULATOR FUNCTIONS
+
+Purpose:
+This program performs basic arithmetic operations using separate functions.
+
+Functions Used:
+
+1. addition(a, b)
+Purpose: Adds two numbers and returns the result.
+
+Example:
+addition(10, 20)
+Output: 30
+
+---
+
+2. subtraction(a, b)
+Purpose: Subtracts the second number from the first number.
+
+Example:
+subtraction(20, 10)
+Output: 10
+
+---
+
+3. multiplication(a, b)
+Purpose: Multiplies two numbers.
+
+Example:
+multiplication(5, 4)
+Output: 20
+
+---
+
+4. division(a, b)
+Purpose: Divides the first number by the second number.
+
+Example:
+division(20, 5)
+Output: 4.0
+
+Note:
+The function checks whether the second number is zero to avoid division errors.
+
+****************************************************************
+
+PART B - STUDENT INFORMATION MANAGER
+
+Purpose:
+This program collects and displays student information using a function.
+
+Function Used:
+
+1. display_student(name, roll, branch, semester)
+
+Purpose:
+Displays student details in a formatted manner.
+
+Parameters:
+* Student Name
+* Roll Number
+* Branch
+* Semester
+
+Output:
+Shows all student information clearly on the screen.
+
+****************************************************************
+
+PART C - MARKS ANALYZER
+
+Purpose:
+This program accepts marks of five subjects and calculates total marks, percentage and grade.
+
+Function Used:
+
+1. calculate_grade(percentage)
+
+Purpose:
+Determines the grade based on the percentage.
+
+Grade Criteria:
+
+90 and above = Grade A
+
+80 and above = Grade B
+
+70 and above = Grade C
+
+60 and above = Grade D
+
+Below 60 = Grade F
+
+Output:
+Displays:
+* Total Marks
+* Percentage
+* Grade
+
+****************************************************************
+
+PART D - FILE HANDLING
+
+Purpose:
+This program stores student information in a text file and reads the stored data.
+
+Functions Used:
+
+1. open()
+
+Purpose:
+Opens a file for reading or writing.
+
+Example:
+open("student_data.txt", "w")
+
+---
+
+2. write()
+
+Purpose:
+Writes data into the file.
+
+---
+
+3. read()
+
+Purpose:
+Reads all data from the file.
+
+---
+
+4. close()
+
+Purpose:
+Closes the file after operations are completed.
+
+Output:
+* Saves student data
+* Reads student data
+* Displays stored information
+
+****************************************************************
+
+PART E - PASSWORD VAULT SIMULATOR
+
+Purpose:
+This program stores website login information inside a text file.
+
+Functions Used:
+
+1. open()
+
+Purpose:
+Opens vault.txt file.
+
+---
+
+2. write()
+
+Purpose:
+Stores:
+* Website Name
+* Username
+* Password
+
+inside the file.
+
+---
+
+3. read()
+
+Purpose:
+Displays all saved records.
+
+---
+
+4. close()
+
+Purpose:
+Safely closes the file.
+
+Output:
+* Saves login credentials
+* Displays all stored records
+
+Note:
+This is a basic learning project and does not use encryption.
+
+****************************************************************
+
+BONUS CHALLENGE - LOG FILE GENERATOR
+
+Purpose:
+Creates a log entry whenever the program runs.
+
+Functions Used:
+
+1. datetime.now()
+
+Purpose:
+Gets the current date and time.
+
+---
+
+2. write()
+
+Purpose:
+Stores activity information inside activity_log.txt.
+
+Output:
+Creates a simple activity log containing:
+* Date
+* Time
+* Program Activity
+
+****************************************************************
+
+LEARNING OUTCOME
+
+Topics Covered:
+
+* Functions
+* Arguments and Parameters
+* Return Statements
+* Conditional Statements
+* File Handling
+* Data Storage
+* Logging Systems
+* Structured Programming
+
+This task helped in understanding modular programming, file handling and basic data management concepts using Python.
+
+****************************************************************
