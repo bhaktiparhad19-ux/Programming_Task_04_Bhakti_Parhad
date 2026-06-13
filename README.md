@@ -195,10 +195,6 @@ The program generates the following log file:
 2026-06-13 10:30:15.123456 - Program Started
 ```
 
-## activity_log.txt
-
-![Activity Log](Programming_Task_04_Bhakti_Parhad/activity_log.txt)
-
 ---
 
 # Concepts Practiced
@@ -224,6 +220,6 @@ This task helped in understanding how professional applications organize code us
 
 # Author
 
-Bhakti Parhad
+Bhakti Mahadev Parhad
 
-Summer Internship Program
+White Band Associates Summer Internship Program
