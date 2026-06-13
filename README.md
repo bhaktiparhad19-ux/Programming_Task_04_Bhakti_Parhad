@@ -192,7 +192,7 @@ The program generates the following log file:
 ### activity_log.txt
 
 ```text
-2026-06-13 10:30:15.123456 - Program Started
+2026-06-13 17:27:26.151548 - Program Started
 ```
 
 ---
